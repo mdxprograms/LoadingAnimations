@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  font-family: "sans-serif";
+}
+
+h2 {
+  background: lightblue;
+  color: #fff;
+  padding: 1.5rem 0;
+  margin: 0;
+  text-shadow: 1px 1px 1px #222;
+}
+
+hr {
+  margin: 0 0 1.5rem;
+}
+
+h4 {
+  margin: 0 0 2.5rem;
+}
+
+#root {
+  text-align: center;
+}
